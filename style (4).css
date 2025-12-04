@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Libre Baskerville,serif;
+}
+div{
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 100px;
+    width: 50%;
+   
+}
+.avocado{
+    border: 5px solid white;
+    width: 100%;
+
+}
